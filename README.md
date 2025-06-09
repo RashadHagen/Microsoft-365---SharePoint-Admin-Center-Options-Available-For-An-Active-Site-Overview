@@ -5,7 +5,7 @@
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-This project goes over options available after creating a SharePoint site in Microsoft 365’s SharePoint Admin Center.
+This project goes over options available for Administrators in Microsoft 365’s SharePoint Admin Center after a SharePoint site is created.
 </b>
 
 
