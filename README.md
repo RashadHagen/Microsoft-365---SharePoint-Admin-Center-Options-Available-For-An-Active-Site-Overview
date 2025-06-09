@@ -1,4 +1,4 @@
-<h1>Microsoft 365 - SharePoint Admin Center – Options Available For An Active Site Overview</h1>
+<h1>Microsoft 365 - SharePoint Admin Center – Options Available For An Active SharePoint Site Overview</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
